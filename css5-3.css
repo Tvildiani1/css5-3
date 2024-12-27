@@ -1,0 +1,187 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+}
+
+.mainBox {
+    display: flex;
+    flex-direction: column;
+    gap: 42px;
+}
+
+
+.leftContainer {
+    display: inline-flex;
+    align-items: center;
+    height: 992px;
+    padding: 12px 28px 708px 28px;
+    width: 104px;
+}
+
+.backgroundColor {
+    background: #E7EEFF;
+}
+
+.insideBox {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.topContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1579px;
+    padding: 20px 0px;
+    height: 80px;
+    color: #5E6577;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.middleCenter {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.navLogo {
+    width: 48px;
+    height: 48px;
+    border-bottom: 1px solid #002B81;
+   
+}
+
+.spainBox {
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    
+}
+
+.spainDiv {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 650px;
+    color: #5E6577;
+    font-family: Inter;
+    font-size: 16px;
+    
+}
+
+
+.locationBox {
+    display: flex;
+    border-radius: 16px;
+    padding: 8px 24px 8px 12px;
+    width: 176px;
+}
+
+.calendarBox {
+    display: flex;
+    border-radius: 16px;
+    padding: 8px 24px 8px 12px;
+    width: 154px;
+
+}
+
+.dateBox {
+    display: flex;
+    border-radius: 16px;
+    width: 129px;
+    padding: 8px 24px 8px 12px;
+}
+
+.picBox {
+    display: flex;
+    margin: 0 auto;
+    width: 1144px;
+    align-items: center;
+    gap: 42px;
+}
+
+.modernBox {
+    display: flex;
+    padding: 8px 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 354px;
+}
+
+.hotelBackground {
+    border-radius: 0px 0px 24px 24px;
+    background: #E7EEFF;
+}
+
+.backColor {
+    color: #000;
+    font-size: 18px;
+}
+.grayColor {
+    color: #606060;
+    font-size: 14px;
+
+}
+
+.villaBox {
+    display: flex;
+    padding: 8px 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 354px;
+}
+
+.hostingBox {
+    display: flex;
+    padding: 8px 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 354px;
+}
+
+.tropicBox {
+    display: flex;
+    padding: 8px 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 354px;
+}
+
+.picboxTwo {
+    display: flex;
+    align-items: center;
+    gap: 42px;
+    margin: 0 auto;
+    width: 1144px;
+}
+
+.individualBox {
+    display: flex;
+    padding: 8px 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 354px;
+}
+
+
+.minidoubBox {
+    display: flex;
+    padding: 8px 12px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 354px;
+}
